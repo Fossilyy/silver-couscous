@@ -1,5 +1,5 @@
 body {
-    font-family: serif;
+    font-family: georgia;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    font-family: serif;
+    font-family: georgia;
     background-color: #5e0a0a;
     color: #ff7538;
     padding: 1rem 0;
